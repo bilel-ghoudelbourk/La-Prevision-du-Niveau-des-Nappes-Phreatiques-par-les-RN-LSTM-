@@ -1,6 +1,6 @@
 # Prévision du Niveau des Nappes Phréatiques par Réseaux de Neurones
 
-![Python Version](https://img.shields.io/badge/Python-3.11.2-blue)
+[![Python Version](https://img.shields.io/badge/Python-3.11.2-blue)](https://www.python.org/downloads/release/python-3112/)
 
 ## Introduction
 Ce projet vise à développer des modèles de réseaux de neurones pour prédire les niveaux des nappes phréatiques en Australie. Les données utilisées proviennent de plusieurs puits répartis dans différentes régions, chaque fichier contenant des observations mensuelles de variables environnementales (précipitations, température, évapotranspiration et indice de végétation) ainsi que les niveaux de la nappe phréatique (GWL).
